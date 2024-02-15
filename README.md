@@ -8,4 +8,4 @@ En este curso vemos de todo:
 * Trucos muy útiles
 * y MAS...
 
-Y como un amable recordatorio: Este readme.md es un chiste. Diseñado para el ejemplo.
+Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo.
